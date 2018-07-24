@@ -38,6 +38,7 @@
 	</dependencies>
 
 	<build>
+        <defaultGoal>compile</defaultGoal>
 		<finalName>teamcity-docker-maven-demo</finalName>
 		<plugins>
 			<plugin>
